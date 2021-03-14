@@ -1,1 +1,1 @@
-# BLS library in Go
+# bls-go library
