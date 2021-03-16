@@ -3,7 +3,7 @@ package bls
 import (
 	"math/big"
 
-	"github.com/neatlib/bls/bn256"
+	"github.com/neatlib/bls-go/bn256"
 	"golang.org/x/crypto/sha3"
 )
 
