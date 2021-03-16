@@ -3,7 +3,7 @@ package bls
 import (
 	"bytes"
 
-	"github.com/neatio-project/bls/bn256"
+	"github.com/neatlib/bls/bn256"
 )
 
 func Sign(msg []byte, pvtk *PrivateKey) *Signature {
