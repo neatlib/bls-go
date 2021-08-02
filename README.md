@@ -1,1 +1,1 @@
-# Bls-go Library
+# Bls Go Library
